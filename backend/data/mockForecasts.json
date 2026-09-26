@@ -1,0 +1,188 @@
+[
+  {
+    "block_id": "MH_PUN_006",
+    "block_name": "Bhor",
+    "district": "Pune",
+    "state": "Maharashtra",
+    "coordinates": {
+      "latitude": 18.1481,
+      "longitude": 73.8436
+    },
+    "forecast_generated_at": "2026-09-26T22:02:55.779354+00:00",
+    "forecast_window": "7_to_30_days",
+    "teleconnection_signals": {
+      "enso_phase": "Weak La Niña (-0.4°C)",
+      "iod_status": "Positive (+0.42°C)",
+      "mjo_phase": 4
+    },
+    "probabilities": {
+      "onset_probability_pct": 35,
+      "continuous_dry_spell_pct": 85,
+      "heavy_downpour_risk_pct": 5
+    },
+    "metrics": {
+      "expected_rainfall_anomaly_mm": -28.8,
+      "predicted_active_days": 1,
+      "predicted_break_days": 13,
+      "soil_moisture_index": 0.17
+    },
+    "risk_level": "high",
+    "color_code": "#ef4444",
+    "advisories": []
+  },
+  {
+    "block_id": "MH_PUN_004",
+    "block_name": "Junnar",
+    "district": "Pune",
+    "state": "Maharashtra",
+    "coordinates": {
+      "latitude": 19.2065,
+      "longitude": 73.8767
+    },
+    "forecast_generated_at": "2026-09-26T22:02:55.779354+00:00",
+    "forecast_window": "7_to_30_days",
+    "teleconnection_signals": {
+      "enso_phase": "Weak La Niña (-0.4°C)",
+      "iod_status": "Positive (+0.42°C)",
+      "mjo_phase": 4
+    },
+    "probabilities": {
+      "onset_probability_pct": 35,
+      "continuous_dry_spell_pct": 85,
+      "heavy_downpour_risk_pct": 5
+    },
+    "metrics": {
+      "expected_rainfall_anomaly_mm": -29.2,
+      "predicted_active_days": 1,
+      "predicted_break_days": 13,
+      "soil_moisture_index": 0.17
+    },
+    "risk_level": "high",
+    "color_code": "#ef4444",
+    "advisories": []
+  },
+  {
+    "block_id": "MH_PUN_001",
+    "block_name": "Haveli",
+    "district": "Pune",
+    "state": "Maharashtra",
+    "coordinates": {
+      "latitude": 18.5204,
+      "longitude": 73.8567
+    },
+    "forecast_generated_at": "2026-09-26T22:02:55.779354+00:00",
+    "forecast_window": "7_to_30_days",
+    "teleconnection_signals": {
+      "enso_phase": "Weak La Niña (-0.4°C)",
+      "iod_status": "Positive (+0.42°C)",
+      "mjo_phase": 4
+    },
+    "probabilities": {
+      "onset_probability_pct": 35,
+      "continuous_dry_spell_pct": 85,
+      "heavy_downpour_risk_pct": 5
+    },
+    "metrics": {
+      "expected_rainfall_anomaly_mm": -29.5,
+      "predicted_active_days": 1,
+      "predicted_break_days": 13,
+      "soil_moisture_index": 0.16
+    },
+    "risk_level": "high",
+    "color_code": "#ef4444",
+    "advisories": []
+  },
+  {
+    "block_id": "MH_PUN_003",
+    "block_name": "Shirur",
+    "district": "Pune",
+    "state": "Maharashtra",
+    "coordinates": {
+      "latitude": 18.8267,
+      "longitude": 74.3789
+    },
+    "forecast_generated_at": "2026-09-26T22:02:55.779354+00:00",
+    "forecast_window": "7_to_30_days",
+    "teleconnection_signals": {
+      "enso_phase": "Weak La Niña (-0.4°C)",
+      "iod_status": "Positive (+0.42°C)",
+      "mjo_phase": 4
+    },
+    "probabilities": {
+      "onset_probability_pct": 35,
+      "continuous_dry_spell_pct": 85,
+      "heavy_downpour_risk_pct": 5
+    },
+    "metrics": {
+      "expected_rainfall_anomaly_mm": -29.7,
+      "predicted_active_days": 1,
+      "predicted_break_days": 13,
+      "soil_moisture_index": 0.16
+    },
+    "risk_level": "high",
+    "color_code": "#ef4444",
+    "advisories": []
+  },
+  {
+    "block_id": "MH_PUN_002",
+    "block_name": "Baramati",
+    "district": "Pune",
+    "state": "Maharashtra",
+    "coordinates": {
+      "latitude": 18.1517,
+      "longitude": 74.5771
+    },
+    "forecast_generated_at": "2026-09-26T22:02:55.779354+00:00",
+    "forecast_window": "7_to_30_days",
+    "teleconnection_signals": {
+      "enso_phase": "Weak La Niña (-0.4°C)",
+      "iod_status": "Positive (+0.42°C)",
+      "mjo_phase": 4
+    },
+    "probabilities": {
+      "onset_probability_pct": 35,
+      "continuous_dry_spell_pct": 85,
+      "heavy_downpour_risk_pct": 5
+    },
+    "metrics": {
+      "expected_rainfall_anomaly_mm": -29.8,
+      "predicted_active_days": 1,
+      "predicted_break_days": 13,
+      "soil_moisture_index": 0.15
+    },
+    "risk_level": "high",
+    "color_code": "#ef4444",
+    "advisories": []
+  },
+  {
+    "block_id": "MH_PUN_005",
+    "block_name": "Indapur",
+    "district": "Pune",
+    "state": "Maharashtra",
+    "coordinates": {
+      "latitude": 18.1147,
+      "longitude": 75.0253
+    },
+    "forecast_generated_at": "2026-09-26T22:02:55.779354+00:00",
+    "forecast_window": "7_to_30_days",
+    "teleconnection_signals": {
+      "enso_phase": "Weak La Niña (-0.4°C)",
+      "iod_status": "Positive (+0.42°C)",
+      "mjo_phase": 4
+    },
+    "probabilities": {
+      "onset_probability_pct": 35,
+      "continuous_dry_spell_pct": 85,
+      "heavy_downpour_risk_pct": 5
+    },
+    "metrics": {
+      "expected_rainfall_anomaly_mm": -29.8,
+      "predicted_active_days": 1,
+      "predicted_break_days": 13,
+      "soil_moisture_index": 0.15
+    },
+    "risk_level": "high",
+    "color_code": "#ef4444",
+    "advisories": []
+  }
+]

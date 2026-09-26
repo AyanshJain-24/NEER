@@ -1,0 +1,21 @@
+Set-Content .gitignore @"
+# Virtual environment
+.venv/
+venv/
+
+# Large Datasets & PyTorch tensors (>100MB)
+*.pt
+*.nc
+data/processed/
+data/raw/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Node & dependencies
+node_modules/
+dist/
+build/
+.env
+"@
