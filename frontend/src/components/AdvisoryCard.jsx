@@ -37,7 +37,7 @@ export default function AdvisoryCard({ block }) {
       };
 
       const response = await axios.post(
-        `http://localhost:5000/api/v1/farmers/trigger-alert/${block.block_id}`,
+        `${import.meta.env.VITE_API_BASE_URL}/api/v1/farmers/trigger-alert/${block.block_id}`,
         payload
       );
       setBroadcastLog(response.data);

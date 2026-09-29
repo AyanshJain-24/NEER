@@ -90,7 +90,7 @@ export default function LocationDetailModal({
         horizon: 'cumulative_s2s'
       };
 
-      const res = await axios.post(`http://localhost:5000/api/v1/farmers/trigger-alert/${block.block_id}`, payload);
+      const res = await axios.post(`${import.meta.env.VITE_API_BASE_URL}/api/v1/farmers/trigger-alert/${block.block_id}`, payload);
       setDispatchResult({
         success: true,
         mode: res.data?.mode || 'console_fallback',

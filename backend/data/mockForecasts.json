@@ -8,7 +8,7 @@
       "latitude": 18.1481,
       "longitude": 73.8436
     },
-    "forecast_generated_at": "2026-09-29T20:25:41.894823+00:00",
+    "forecast_generated_at": "2026-09-29T20:53:28.308299+00:00",
     "forecast_window": "7_to_30_days",
     "teleconnection_signals": {
       "enso_phase": "Weak La Niña (-0.4°C)",
@@ -39,7 +39,7 @@
       "latitude": 19.2065,
       "longitude": 73.8767
     },
-    "forecast_generated_at": "2026-09-29T20:25:41.894823+00:00",
+    "forecast_generated_at": "2026-09-29T20:53:28.308299+00:00",
     "forecast_window": "7_to_30_days",
     "teleconnection_signals": {
       "enso_phase": "Weak La Niña (-0.4°C)",
@@ -70,7 +70,7 @@
       "latitude": 18.5204,
       "longitude": 73.8567
     },
-    "forecast_generated_at": "2026-09-29T20:25:41.894823+00:00",
+    "forecast_generated_at": "2026-09-29T20:53:28.308299+00:00",
     "forecast_window": "7_to_30_days",
     "teleconnection_signals": {
       "enso_phase": "Weak La Niña (-0.4°C)",
@@ -101,7 +101,7 @@
       "latitude": 18.8267,
       "longitude": 74.3789
     },
-    "forecast_generated_at": "2026-09-29T20:25:41.894823+00:00",
+    "forecast_generated_at": "2026-09-29T20:53:28.308299+00:00",
     "forecast_window": "7_to_30_days",
     "teleconnection_signals": {
       "enso_phase": "Weak La Niña (-0.4°C)",
@@ -132,7 +132,7 @@
       "latitude": 18.1517,
       "longitude": 74.5771
     },
-    "forecast_generated_at": "2026-09-29T20:25:41.894823+00:00",
+    "forecast_generated_at": "2026-09-29T20:53:28.308299+00:00",
     "forecast_window": "7_to_30_days",
     "teleconnection_signals": {
       "enso_phase": "Weak La Niña (-0.4°C)",
@@ -163,7 +163,7 @@
       "latitude": 18.1147,
       "longitude": 75.0253
     },
-    "forecast_generated_at": "2026-09-29T20:25:41.894823+00:00",
+    "forecast_generated_at": "2026-09-29T20:53:28.308299+00:00",
     "forecast_window": "7_to_30_days",
     "teleconnection_signals": {
       "enso_phase": "Weak La Niña (-0.4°C)",

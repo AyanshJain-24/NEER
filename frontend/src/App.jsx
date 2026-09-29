@@ -15,7 +15,7 @@ export default function App() {
 
   useEffect(() => {
     axios
-      .get('http://localhost:5000/api/v1/forecasts')
+      .get(`${import.meta.env.VITE_API_BASE_URL}/api/v1/forecasts`)
       .then((res) => {
         const data = Array.isArray(res.data) ? res.data : (res.data?.data || []);
         setForecasts(data);
